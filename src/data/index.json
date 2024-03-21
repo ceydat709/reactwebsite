@@ -1,0 +1,67 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/Screen Shot 2024-03-20 at 3.21.43 PM (1).png",
+        "title": "DNA Repair Capacity - Columbia University",
+        "description": "I studied the DNA repair capacity of lymphoblastoid cell lines (LCLs) after they have been exposed to UV during different time intervals using Comet Assays."
+      },
+      {
+        "id": "2",
+        "src": "./img/Screen Shot 2024-03-20 at 4.14.18 PM.png",
+        "title": "Pharmaceutical Approaches to Breast Cancer - Columbia University",
+        "description": "I studied how investigational drugs in combination with neoadjuvant or pre-surgery care improves pathologic response in high-risk breast cancer patients." 
+        
+      }
+    ],
+    
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/Screen Shot 2023-12-02 at 5.20.58 PM (1).png",
+        "title": "Solar Cyberrush | C#",
+        "description": "Dystopian puzzle game. Worked with CameraSwitchers, light mechanisms, menu page, and wire puzzles.",
+        "link": "https://studioscapula.itch.io/studio-scapula"
+      },
+      {
+        "id": "2",
+        "src": "./img/Screen Shot 2024-03-19 at 5.59.19 PM.png",
+        "title": "Beezy-Body | C#",
+        "description": "A platformer game consisting of health, energy, and difficulty bars. Implemented three levels with intricate user interaction.",
+        "link": "https://ceryneia.itch.io/beezy-body"
+      },
+      {
+        "id": "3",
+        "src": "./img/Screen Shot 2024-03-19 at 6.02.06 PM.png",
+        "title": "FourEvYear |  JavaScript, ReactJS, MySQL",
+        "description": "FourEvYear provides personalized four-year plans for Columbia students. Built authentication system and dataframes.",
+        "link": "https://github.com/ceydat709/FourEvYear"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
